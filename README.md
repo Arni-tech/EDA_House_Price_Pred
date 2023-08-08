@@ -20,7 +20,7 @@ In this project, we perform an Exploratory Data Analysis on a dataset of house p
 
 ## Dataset
 
-The dataset used for this project is provided by [house_prices.csv]. It includes information about various attributes of houses and their corresponding prices. The dataset is available in the `data` directory of this repository.
+The dataset used for this project is provided by [[house_prices.csv](https://github.com/Arni-tech/EDA_House_Price_Pred/blob/main/house_prices.csv)]. It includes information about various attributes of houses and their corresponding prices. The dataset is available in the `data` directory of this repository.
 
 ## Installation
 
