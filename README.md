@@ -1,6 +1,5 @@
 # House Pricing Exploratory Data Analysis (EDA) Project
 
-![house](house.jpg)
 
 This repository contains the code and analysis for an Exploratory Data Analysis (EDA) project on house pricing. The goal of this project is to explore a dataset containing information about various features of houses and their corresponding prices. The analysis involves data preprocessing, visualization, and gaining insights into the factors that influence house prices.
 
